@@ -1,1 +1,1 @@
-Minimal setup for coding C on Fedora 27
+Minimal setup for coding C on Fedora 27 with auto-completion
